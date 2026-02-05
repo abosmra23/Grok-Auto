@@ -46,9 +46,8 @@
 ## 📸 Screenshots
 
 | Dashboard | Extension UI |
-|:---:|:---:|
-| <img width="410" height="778" alt="image" src="https://github.com/user-attachments/assets/34e4e62d-5e35-49b6-ae48-ad05ff59f9cb" />
-<img width="1044" height="517" alt="image" src="https://github.com/user-attachments/assets/c562e154-cc38-4ef8-9a74-e0678664550c" />
+|<img width="1044" height="517" alt="image" src="https://github.com/user-attachments/assets/c562e154-cc38-4ef8-9a74-e0678664550c" />
+|<img width="410" height="778" alt="image" src="https://github.com/user-attachments/assets/8ed86c4a-08d0-4d0a-8574-3ce18cef0d26" />
 
 ---
 
