@@ -1,4 +1,4 @@
-<img width="410" height="778" alt="image" src="https://github.com/user-attachments/assets/8cec4e39-acc8-486a-8dde-06223f400237" /># 🎨 Grok Bulk Imagine
+ 🎨 Grok Bulk Imagine
 
 **Grok Bulk Imagine** is a powerful automation tool and SaaS platform designed to streamline bulk image generation on **Grok**. It features a Chrome Extension for automation and a full Vercel-hosted dashboard for user management and subscriptions.
 
